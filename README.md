@@ -99,7 +99,11 @@ Feel free to fork the repo, open issues, or submit pull requests.
 
 ![live2](https://github.com/user-attachments/assets/458c953e-5c2c-4940-b48b-7153a71838e1)
 
-## 📄 
+## 👨‍💻 Team (S4F_CP_Team_34530)
+
+- 👨‍💼 **Ansh Patel** (Team Lead) – [LinkedIn](https://www.linkedin.com/in/ansh-patel-559306301)  
+- 👩‍💻 **Vidhi Patel** – [LinkedIn](https://www.linkedin.com/in/vidhi-patel-42a11726b)  
+- 👨‍💻 **Sujal Bhagat** – [LinkedIn](https://www.linkedin.com/in/sujal-bhagat/) 
 
 
 
