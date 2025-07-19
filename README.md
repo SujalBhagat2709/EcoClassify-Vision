@@ -65,7 +65,7 @@ This project merges **technology** and **ecology** — making smart waste dispos
 
 ## 🚀 Project Demonstration
 
-- 📺 YouTube: *Coming Soon* 
+- 📺 YouTube: [https://youtu.be/6b8XG1GKYJc](https://youtu.be/6b8XG1GKYJc)
 
 ---
 
