@@ -357,6 +357,6 @@ body {
 @media (max-width: 600px) {
     .container { padding: 10px 2vw 10px 2vw; }
     .main-title { font-size: 1.3rem; }
-    .feature-card { width: 95vw; }
+/*     .feature-card { width: 95vw; } */
     .result-card { min-width: 0; }
 }
