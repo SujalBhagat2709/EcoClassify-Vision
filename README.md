@@ -65,6 +65,7 @@ This project merges **technology** and **ecology** — making smart waste dispos
 
 ## 🚀 Project Demonstration
 
+- 🌐 Web Demo: [https://eco-classify-vision-ivory.vercel.app/](https://eco-classify-vision-ivory.vercel.app/)
 - 📺 YouTube: [https://youtu.be/6b8XG1GKYJc](https://youtu.be/6b8XG1GKYJc)
 
 ---
